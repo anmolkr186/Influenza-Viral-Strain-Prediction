@@ -11,7 +11,7 @@ In this project, we try to keep track of the mutations in the Influenza A strain
 3. ReadMe.pdf: Project execution information.
 
 ## Co-Contributors
-Samarth Chauhan
-Ritvik Gupta
-Karan Chawla
-Anjali Sharma
+* Samarth Chauhan
+* Ritvik Gupta
+* Karan Chawla
+* Anjali Sharma
